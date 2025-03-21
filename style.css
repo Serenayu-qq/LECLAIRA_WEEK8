@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    color:white;
+    font-family: Arial, sans-serif;
+}
+
+
+.img{
+    position: fixed;
+    margin-left: 60%;
+    width: 500px;  
+    height: auto; 
+
+}
+
+.toptitle{
+    font-size: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+.cafes{
+    font-size: 30px;
+    position: sticky;
+    top: 4px;
+    background-color: fuchsia;
+
+
+}
+
+.bcafes{
+    margin-top: 10px ;
+    font-size: 20px;
+
+}
+
+
+.parks{
+    font-size: 30px;
+    position: sticky;
+    top: 40px;
+    background-color: fuchsia;
+
+}
+
+
+
+p{
+    width: 50%;
+    vertical-align: top; 
+    background-color: blue;
+    padding: 2em;
+    height: 8rem;
+
+}
+
+.envelope{
+    background-color: black;
+}
+
